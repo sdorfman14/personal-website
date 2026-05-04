@@ -2,3 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+layout: page
+title: Samuel Dorfman
+description: Personal website
