@@ -1,5 +1,3 @@
-# Hi, I'm Samuel Dorfman
-
 I’m a Computer Science student at the University of Michigan interested in building systems that combine data, infrastructure, and machine learning. I enjoy working on problems where understanding how a system behaves is just as important as building it.
 
 ---
