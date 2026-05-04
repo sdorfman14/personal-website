@@ -25,7 +25,9 @@ I’m especially interested in:
 ## More
 
 📄 [Resume](./Resume-Dorfman,Samuel4.0.pdf)
+
 📄 [Personal Statement](./Personal Statement.pdf)
+
 📄 [Statement of Purpose](./Statement of Purpose.pdf)
 
 ---
